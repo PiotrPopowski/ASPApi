@@ -1,0 +1,143 @@
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.Domain\obj\Debug\PPRProject.Domain.csprojResolveAssemblyReference.cache
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.Domain\bin\Debug\PPRProject.Domain.dll.config
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.Domain\bin\Debug\PPRProject.Domain.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.Domain\bin\Debug\PPRProject.Domain.pdb
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.Domain\bin\Debug\EntityFramework.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.Domain\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.Domain\bin\Debug\Ninject.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.Domain\bin\Debug\Ninject.Web.Common.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.Domain\bin\Debug\Ninject.Web.Mvc.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.Domain\bin\Debug\WebActivator.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.Domain\bin\Debug\EntityFramework.xml
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.Domain\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.Domain\bin\Debug\Ninject.pdb
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.Domain\bin\Debug\Ninject.xml
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.Domain\bin\Debug\Ninject.Web.Common.pdb
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.Domain\bin\Debug\Ninject.Web.Common.xml
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.Domain\bin\Debug\Ninject.Web.Mvc.pdb
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.Domain\bin\Debug\Ninject.Web.Mvc.xml
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.Domain\obj\Debug\PPRProject.Domain.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.Domain\obj\Debug\PPRProject.Domain.pdb
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\PPRProject.Domain.dll.config
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\PPRProject.Domain.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\PPRProject.Domain.pdb
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\EntityFramework.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\EntityFramework.SqlServer.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.Web.Common.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.Web.Mvc.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\WebActivator.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\EntityFramework.xml
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\EntityFramework.SqlServer.xml
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.pdb
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.xml
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.Web.Common.pdb
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.Web.Common.xml
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.Web.Mvc.pdb
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.Web.Mvc.xml
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.Domain\obj\Debug\PPRProject.Domain.csprojResolveAssemblyReference.cache
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.Domain\obj\Debug\PPRProject.Domain.csproj.CoreCompileInputs.cache
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.Domain\obj\Debug\PPRProject.Domain.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.Domain\obj\Debug\PPRProject.Domain.pdb
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\PPRProject.Domain.dll.config
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\PPRProject.Domain.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\PPRProject.Domain.pdb
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\EntityFramework.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.Web.Common.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.Web.Mvc.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\WebActivator.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\EntityFramework.xml
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.pdb
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.xml
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.Web.Common.pdb
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.Web.Common.xml
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.Web.Mvc.pdb
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.Web.Mvc.xml
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\obj\Debug\PPRProject.Domain.csprojResolveAssemblyReference.cache
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\obj\Debug\PPRProject.Domain.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\obj\Debug\PPRProject.Domain.pdb
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.Helpers.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.Mvc.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.Razor.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.WebPages.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.Helpers.xml
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.Mvc.xml
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.Razor.xml
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.WebPages.xml
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\PPRProject.Domain.dll.config
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\PPRProject.Domain.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\PPRProject.Domain.pdb
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\EntityFramework.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\EntityFramework.SqlServer.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.Web.Common.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.Web.Mvc.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.Helpers.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.Mvc.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.Razor.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.WebPages.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\WebActivator.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\EntityFramework.xml
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\EntityFramework.SqlServer.xml
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.pdb
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.xml
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.Web.Common.pdb
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.Web.Common.xml
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.Web.Mvc.pdb
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.Web.Mvc.xml
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.Helpers.xml
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.Mvc.xml
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.Razor.xml
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.WebPages.xml
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\obj\Debug\PPRProject.Domain.csprojResolveAssemblyReference.cache
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\obj\Debug\PPRProject.Domain.csproj.CoreCompileInputs.cache
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\obj\Debug\PPRProject.Domain.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\obj\Debug\PPRProject.Domain.pdb
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\PPRProject.Domain.dll.config
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\PPRProject.Domain.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\PPRProject.Domain.pdb
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.Web.Common.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\WebActivator.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.pdb
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.xml
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.Web.Common.pdb
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.Web.Common.xml
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.Web.Mvc.pdb
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\obj\Debug\PPRProject.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\obj\Debug\PPRProject.Domain.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.Domain\obj\Debug\PPRProject.Domain.pdb

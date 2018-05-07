@@ -1,0 +1,314 @@
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\obj\Debug\PPRProject.WebUI.csprojResolveAssemblyReference.cache
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\ApplicationInsights.config
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\roslyn\csc.exe
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\roslyn\System.Collections.Immutable.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\roslyn\vbc.exe
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\roslyn\VBCSCompiler.exe
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\roslyn\VBCSCompiler.exe.config
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\PPRProject.WebUI.dll.config
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\PPRProject.WebUI.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\PPRProject.WebUI.pdb
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\EntityFramework.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\EntityFramework.SqlServer.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.Web.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.WindowsServer.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\Microsoft.ApplicationInsights.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\Microsoft.Web.Infrastructure.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\Ninject.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\Ninject.Web.Common.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\Ninject.Web.Mvc.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\PPRProject.Domain.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\System.Web.Helpers.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\System.Web.Mvc.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\System.Web.Razor.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\System.Web.Webpages.Deployment.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\System.Web.Webpages.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\System.Web.Webpages.Razor.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\WebActivator.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\PPRProject.Domain.pdb
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\EntityFramework.xml
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\EntityFramework.SqlServer.xml
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.Web.xml
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.WindowsServer.xml
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\Microsoft.ApplicationInsights.xml
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\Ninject.pdb
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\Ninject.xml
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\Ninject.Web.Common.pdb
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\Ninject.Web.Common.xml
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\Ninject.Web.Mvc.pdb
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\Ninject.Web.Mvc.xml
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\System.Web.Razor.xml
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\System.Web.Webpages.xml
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\System.Web.Webpages.Deployment.xml
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\System.Web.Webpages.Razor.xml
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\System.Web.Helpers.xml
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\bin\System.Web.Mvc.xml
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\obj\Debug\PPRProject.WebUI.dll
+c:\users\piotrek\documents\visual studio 2015\Projects\PPRProject\PPRProject.WebUI\obj\Debug\PPRProject.WebUI.pdb
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\ApplicationInsights.config
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\csc.exe
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\System.Collections.Immutable.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\vbc.exe
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\VBCSCompiler.exe
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\VBCSCompiler.exe.config
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\PPRProject.WebUI.dll.config
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\PPRProject.WebUI.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\PPRProject.WebUI.pdb
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\EntityFramework.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\EntityFramework.SqlServer.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.Web.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.WindowsServer.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.ApplicationInsights.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.Web.Infrastructure.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.Web.Common.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.Web.Mvc.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\PPRProject.Domain.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Helpers.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Mvc.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Razor.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Webpages.Deployment.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Webpages.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Webpages.Razor.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\WebActivator.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\PPRProject.Domain.pdb
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\PPRProject.Domain.dll.config
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\EntityFramework.xml
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\EntityFramework.SqlServer.xml
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.Web.xml
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.WindowsServer.xml
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.ApplicationInsights.xml
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.pdb
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.xml
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.Web.Common.pdb
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.Web.Common.xml
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.Web.Mvc.pdb
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.Web.Mvc.xml
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Razor.xml
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Webpages.xml
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Webpages.Deployment.xml
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Webpages.Razor.xml
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Helpers.xml
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Mvc.xml
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\obj\Debug\PPRProject.WebUI.csprojResolveAssemblyReference.cache
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\obj\Debug\PPRProject.WebUI.csproj.CoreCompileInputs.cache
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\obj\Debug\PPRProject.WebUI.dll
+j:\Desktop\ProjektPPR\PPRProject\PPRProject.WebUI\obj\Debug\PPRProject.WebUI.pdb
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\ApplicationInsights.config
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\csc.exe
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\System.Collections.Immutable.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\vbc.exe
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\VBCSCompiler.exe
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\VBCSCompiler.exe.config
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\PPRProject.WebUI.dll.config
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\PPRProject.WebUI.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\PPRProject.WebUI.pdb
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\EntityFramework.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\EntityFramework.SqlServer.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.Web.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.WindowsServer.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.ApplicationInsights.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.Web.Common.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.Web.Mvc.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\PPRProject.Domain.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Helpers.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Mvc.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Razor.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Webpages.Deployment.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Webpages.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Webpages.Razor.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\WebActivator.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\PPRProject.Domain.pdb
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\EntityFramework.xml
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\EntityFramework.SqlServer.xml
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.Web.xml
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.WindowsServer.xml
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.ApplicationInsights.xml
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.pdb
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.xml
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.Web.Common.pdb
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.Web.Common.xml
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.Web.Mvc.pdb
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.Web.Mvc.xml
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Razor.xml
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Webpages.xml
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Webpages.Deployment.xml
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Webpages.Razor.xml
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Helpers.xml
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Mvc.xml
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\obj\Debug\PPRProject.WebUI.csprojResolveAssemblyReference.cache
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\obj\Debug\PPRProject.WebUI.dll
+D:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\obj\Debug\PPRProject.WebUI.pdb
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\ApplicationInsights.config
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\csc.exe
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\System.Collections.Immutable.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\vbc.exe
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\VBCSCompiler.exe
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\VBCSCompiler.exe.config
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\PPRProject.WebUI.dll.config
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\PPRProject.WebUI.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\PPRProject.WebUI.pdb
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\EntityFramework.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\EntityFramework.SqlServer.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.Web.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.WindowsServer.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.ApplicationInsights.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.Web.Infrastructure.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.Web.Common.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.Web.Mvc.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\PPRProject.Domain.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Helpers.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Mvc.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Razor.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Webpages.Deployment.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Webpages.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Webpages.Razor.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\WebActivator.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\PPRProject.Domain.pdb
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\PPRProject.Domain.dll.config
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\EntityFramework.xml
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\EntityFramework.SqlServer.xml
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.Web.xml
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.WindowsServer.xml
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.ApplicationInsights.xml
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.pdb
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.xml
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.Web.Common.pdb
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.Web.Common.xml
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.Web.Mvc.pdb
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.Web.Mvc.xml
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Razor.xml
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Webpages.xml
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Webpages.Deployment.xml
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Webpages.Razor.xml
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Helpers.xml
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Mvc.xml
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\obj\Debug\PPRProject.WebUI.csprojResolveAssemblyReference.cache
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\obj\Debug\PPRProject.WebUI.csproj.CoreCompileInputs.cache
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\obj\Debug\PPRProject.WebUI.dll
+X:\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\obj\Debug\PPRProject.WebUI.pdb
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\ApplicationInsights.config
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\csc.exe
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\vbc.exe
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\PPRProject.WebUI.dll.config
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\PPRProject.WebUI.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\PPRProject.WebUI.pdb
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\EntityFramework.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\PPRProject.Domain.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Razor.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Webpages.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\WebActivator.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\PPRProject.Domain.pdb
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\EntityFramework.xml
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.pdb
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.xml
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.Web.Common.pdb
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.Web.Mvc.pdb
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Razor.xml
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Webpages.xml
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\obj\Debug\PPRProject.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\obj\Debug\PPRProject.WebUI.dll
+C:\Users\Piotrek\Desktop\ProjektPPR\PPR2\ProjektPPR\PPRProject\PPRProject.WebUI\obj\Debug\PPRProject.WebUI.pdb

@@ -1,0 +1,85 @@
+﻿@model PPRProject.WebUI.Models.UserListViewModel
+@using PPRProject.WebUI.HtmlHelpers
+@{
+    ViewBag.Title = "Easy CRM";
+}
+<div class="panel panel-body">
+    <table class="table table-striped table-bordered">
+        <tr>
+            <th>ID</th>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Birth</th>
+            <th>Login</th>
+            <th>Password</th>
+            <th>Role</th>
+            <th>IsRemoved</th>
+            <th>Actions</th>
+        </tr>
+        @foreach (var p in Model.Users)
+        {
+            <tr>
+                <td>@p.UserID.</td>
+                <td>@p.FirstName</td>
+                <td>@p.LastName</td>
+                <td>
+                    @{
+                    string day, month;
+                    day = p.Birth.Day.ToString();
+                    if (p.Birth.Day <= 9)
+                    {
+                        day = "0" + p.Birth.Day;
+                    }
+                    month = p.Birth.Month.ToString();
+                    if (p.Birth.Month <= 9)
+                    {
+                        month = "0" + p.Birth.Month;
+                    }
+                    <text>@day-@month-@p.Birth.Year</text>
+                }
+            </td>
+            <td>@p.Login</td>
+            <td>@p.Password</td>
+            <td>
+                @switch (p.RoleID)
+                {
+                    case 1:
+                        <text>Admin</text>;
+                        break;
+                    case 2:
+                        <text>Moderator</text>;
+                        break;
+                    default:
+                        <text>User</text>;
+                        break;
+                 }
+            </td>
+            <td>@p.IsRemoved</td>
+            <td>
+                @if (p.RoleID == 3 || Model.CurrentUser.UserID==p.UserID)
+                {
+                <div>
+                    <div style="float:left">
+                        @using (Html.BeginForm("Delete", "Moderator"))
+                        {
+                                @Html.Hidden("UserID", p.UserID)
+                                <input class="btn btn-danger btn-sm" type="submit" value="Remove" />
+                        }
+                    </div>
+                    <div style="float:left; margin-left: 10px;">
+                        @Html.ActionLink("Edit", "Edit", new { p.UserID },
+                                 new { @class = "btn btn-info btn-sm" })
+                    </div>
+                </div>
+                }
+            </td>
+        </tr>
+                    }
+    </table>
+    <div class="panel-footer text-center">
+        @Html.ActionLink("Add New User", "Create", null, new { @class = "btn btn-success pull-left" })
+        <div class="btn btn-group-sm" style="margin:0 auto;">
+            @Html.PageLinks(Model.PagingInfo, x => (Url.Action("List", new { page = x })))
+        </div>
+    </div>
+</div>

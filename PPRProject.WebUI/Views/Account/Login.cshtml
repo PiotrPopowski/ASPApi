@@ -1,0 +1,28 @@
+﻿@model PPRProject.Domain.Entities.User
+
+@{
+    ViewBag.Title = "Login";
+}
+
+@using (Html.BeginForm())
+{
+    <div class="panel-body">
+        <div class="form-group">
+            <div>
+                <label>Login</label>
+                @Html.TextBoxFor(x => x.Login, new { @class = "form-control" })
+            </div>
+            <div>
+                <label>Password</label>
+                @Html.PasswordFor(x => x.Password, new { @class = "form-control" })
+            </div>
+            <p>
+                <input type="submit" value="Sign in" class="btn btn-primary" />
+                @Html.ActionLink("Create Account", "Create", null, new { @class = "btn btn-default" })
+            </p>
+        </div>
+
+    </div>
+
+
+}

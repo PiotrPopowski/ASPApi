@@ -1,0 +1,52 @@
+﻿@model PPRProject.Domain.Entities.User
+@{
+    ViewBag.Title = "Easy CRM";
+}
+<div class="panel panel-body">
+    <table class="table table-striped table-bordered">
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Birth</th>
+            <th>Login</th>
+            <th>Actions</th>
+        </tr>
+            <tr>
+                <td>@Model.FirstName</td>
+                <td>@Model.LastName</td>
+                <td>
+                    @{
+                        string day, month;
+                        day = Model.Birth.Day.ToString();
+                        if (Model.Birth.Day <= 9)
+                        {
+                            day = "0" + Model.Birth.Day;
+                        }
+                        month = Model.Birth.Month.ToString();
+                        if (Model.Birth.Month <= 9)
+                        {
+                            month = "0" + Model.Birth.Month;
+                        }
+                        <text>@day-@month-@Model.Birth.Year</text>
+                    }
+                </td>
+                <td>@Model.Login</td>
+                <td>
+                    <div>
+                        <div style="float:left">
+                            @using (Html.BeginForm("Delete", "User"))
+                            {
+                                @Html.Hidden("UserID", Model.UserID)
+                                <input class="btn btn-danger btn-sm" type="submit" value="Remove" />
+                            }
+                        </div>
+                        <div style="float:left; margin-left: 10px;">
+                            @Html.ActionLink("Edit", "Edit", new { Model.UserID },
+                                new { @class = "btn btn-info btn-sm" })
+                        </div>
+                    </div>
+                </td>
+            </tr>
+    </table>
+
+</div>
